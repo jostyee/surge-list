@@ -7,6 +7,12 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
+# Banks
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,ecitic.com
 # China
 DOMAIN-SUFFIX,cn
 
@@ -25,6 +31,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,chinatelecom-ec.com
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,gog.com

@@ -161,6 +161,11 @@ DOMAIN-SUFFIX,prom.gome.com.cn
 DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
+# Dianping
+DOMAIN,mreport.meituan.com
+DOMAIN,report.meituan.com
+# amap
+DOMAIN,logs.amap.com
 
 # Dropbox
 DOMAIN,d.dropbox.com
