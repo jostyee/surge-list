@@ -4,9 +4,6 @@ list 文件有两种获取方式，一种是本地，一种是远程，本地的
 
 ```
 [Rule]
-PROCESS-NAME,storedownloadd,DIRECT // Mac App Store
-USER-AGENT,com.apple.appstored*,DIRECT // iOS App Store
-DOMAIN,xp.apple.com,Proxy // iOS & macOS System Upgrade
 DOMAIN,iosapps.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,store.apple.com,DIRECT
 # Rulesets
