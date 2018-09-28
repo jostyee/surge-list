@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,irs01.net
 DOMAIN-SUFFIX,irs09.com
 DOMAIN,js-agent.newrelic.com
+DOMAIN,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,quantcount.com
