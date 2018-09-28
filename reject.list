@@ -160,3 +160,7 @@ DOMAIN-SUFFIX,prom.gome.com.cn
 DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
+
+# Dropbox
+DOMAIN,d.dropbox.com
+DOMAIN,dl-debug.dropbox.com
