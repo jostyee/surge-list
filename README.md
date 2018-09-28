@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,store.apple.com,DIRECT
 # Rulesets
 RULE-SET,SYSTEM,DIRECT
 RULE-SET,https://github.com/jostyee/surge-list/raw/master/apple.list,Proxy
-RULE-SET,adblock.list,REJECT
+RULE-SET,https://github.com/jostyee/surge-list/raw/master/adblock.list,REJECT
 RULE-SET,https://github.com/jostyee/surge-list/raw/master/reject.list,REJECT-TINYGIF
 RULE-SET,https://github.com/jostyee/surge-list/raw/master/cn.list,DIRECT
 RULE-SET,https://github.com/jostyee/surge-list/raw/master/netflix.list,NetFlix
