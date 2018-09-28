@@ -1,5 +1,5 @@
 # China Apps
-USER-AGENT,MicroMessenger Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
 # Ali
