@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-SUFFIX,club
+IP-CIDR,114.247.28.96/32,no-resolve // China Unicom
 # Beijing Mobile Float
 IP-CIDR,221.179.140.145/32,no-resolve
 IP-CIDR,221.179.131.72/32,no-resolve
