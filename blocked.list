@@ -21,6 +21,15 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,youtu.be
+# Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.com.hk
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sony.com.hk
+DOMAIN-SUFFIX,sony.net
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Top blocked sites
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,2o7.net
