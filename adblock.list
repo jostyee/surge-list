@@ -61,6 +61,7 @@ DOMAIN,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN,ads.mopub.com
+DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,quantcount.com
 DOMAIN-SUFFIX,quantserve.com
 DOMAIN,pixel.wp.com
