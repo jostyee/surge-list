@@ -38,6 +38,7 @@ DOMAIN,api.usebutton.com
 DOMAIN,app.sysdigcloud.com
 DOMAIN,app-measurement.com
 DOMAIN,api.segment.io
+DOMAIN,assets.adobedtm.com
 DOMAIN,cdn.segment.com
 DOMAIN,cdn-settings.segment.com
 DOMAIN,collector.githubapp.com
@@ -45,6 +46,7 @@ DOMAIN,combine.urbanairship.com
 DOMAIN,csi.gstatic.com
 DOMAIN-SUFFIX,disqusads.com
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN,dpm.demdex.net
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,getui.com
 # DOMAIN-SUFFIX,googleadservices.com
