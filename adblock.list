@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 # Temp remove blank line
+DOMAIN-SUFFIX,adjust.com
 DOMAIN,adt.xdrig.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN,api.branch.io
@@ -56,6 +57,9 @@ DOMAIN-SUFFIX,irs09.com
 DOMAIN,js-agent.newrelic.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,quantcount.com
+DOMAIN-SUFFIX,quantserve.com
 DOMAIN,pixel.wp.com
 DOMAIN,stats.jpush.cn
 DOMAIN,tuijian.sogou.com
+DOMAIN-SUFFIX,unityads.unity3d.com
