@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,adsmogo
 DOMAIN-KEYWORD,adsrvmedia
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
@@ -17,6 +18,7 @@ DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,syndication
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,uedas
 DOMAIN-KEYWORD,umeng
@@ -228,7 +230,6 @@ DOMAIN-SUFFIX,ak.sascdn.com
 DOMAIN-SUFFIX,allyes.cn
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,analytics.query.yahoo.com
 DOMAIN-SUFFIX,angsrvr.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anysdk.com
@@ -317,9 +318,7 @@ DOMAIN-SUFFIX,gdsc168.com
 DOMAIN-SUFFIX,gg1028.com
 DOMAIN-SUFFIX,glispa.com
 DOMAIN-SUFFIX,go-mpulse
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,growingio.com
@@ -520,7 +519,6 @@ DOMAIN-SUFFIX,yrxmr.com
 DOMAIN-SUFFIX,ysjwj.com
 DOMAIN-SUFFIX,yunjiasu.com
 DOMAIN-SUFFIX,zantainet.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhiziyun.com
 DOMAIN-SUFFIX,zhstatic.zhihu.com
 DOMAIN-SUFFIX,zhuanfakong.com
