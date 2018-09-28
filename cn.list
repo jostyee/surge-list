@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
 # China
-DOMAIN-SUFFIX,CN
+DOMAIN-SUFFIX,cn
 
 # Accelerate direct sites
 DOMAIN-SUFFIX,126.net
