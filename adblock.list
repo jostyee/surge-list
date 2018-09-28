@@ -32,8 +32,11 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN,api.usebutton.com
 DOMAIN,app.sysdigcloud.com
 DOMAIN,app-measurement.com
+DOMAIN,api.segment.io
 DOMAIN,cdn.segment.com
+DOMAIN,cdn-settings.segment.com
 DOMAIN,collector.githubapp.com
+DOMAIN,combine.urbanairship.com
 DOMAIN,csi.gstatic.com
 DOMAIN-SUFFIX,disqusads.com
 DOMAIN-SUFFIX,doubleclick.net
