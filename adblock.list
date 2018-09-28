@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,piwik
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,syndication
 DOMAIN-KEYWORD,tracking
@@ -26,6 +27,7 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 # Temp remove blank line
+DOMAIN,ad.caiyunapp.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN,adt.xdrig.com
 DOMAIN-SUFFIX,analysys.cn
