@@ -98,6 +98,10 @@ DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,wp.com
 
+# Pocket
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,pocket-image-cache.com
+
 # Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telegra.ph
