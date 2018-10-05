@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,wp.com
 # Pocket
 DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,pocket-image-cache.com
+DOMAIN-SUFFIX,readitlaterlist.com
 
 # Telegram
 DOMAIN-SUFFIX,t.me
