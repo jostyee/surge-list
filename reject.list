@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,wax.weibo.com
 DOMAIN,sbeacon.sina.com.cn
 DOMAIN,log.sina.cn
 DOMAIN-SUFFIX,sapi.sina.cn
+DOMAIN,sdlog.miaopai.com
 # QQ
 DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
