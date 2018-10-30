@@ -26,7 +26,7 @@ DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
-# Temp remove blank line
+
 DOMAIN,ad.caiyunapp.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN,adt.xdrig.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,analysys.cn
 DOMAIN,api.branch.io
 DOMAIN,api.talkingdata.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN,api.amplitude.com
 DOMAIN,api.usebutton.com
 DOMAIN,app.sysdigcloud.com
 DOMAIN,app-measurement.com
