@@ -173,3 +173,7 @@ DOMAIN,logs.amap.com
 # Dropbox
 DOMAIN,d.dropbox.com
 DOMAIN,dl-debug.dropbox.com
+
+# Spotify
+DOMAIN,weblb-wg.gslb.spotify.com
+DOMAIN,adeventtracker.spotify.com
