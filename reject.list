@@ -107,6 +107,9 @@ DOMAIN,log.sina.cn
 DOMAIN-SUFFIX,sapi.sina.cn
 DOMAIN,sdlog.miaopai.com
 # QQ
+DOMAIN,adss.video.qq.com
+DOMAIN,dp3.qq.com
+DOMAIN,huatuocode.weiyun.com
 DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
@@ -132,6 +135,7 @@ DOMAIN-SUFFIX,rqd.qq.com
 DOMAIN-SUFFIX,sdkconfig.video.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
+DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 # 360
