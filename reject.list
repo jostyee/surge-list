@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,stat.360safe.com
 DOMAIN-SUFFIX,stat.m.360.cn
 DOMAIN-SUFFIX,update.360safe.com
 # 163
+DOMAIN,temp.163.com
 DOMAIN-SUFFIX,adgeo.163.com
 DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,fa.163.com
